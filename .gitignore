@@ -1,0 +1,64 @@
+# === Python files ===
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test output
+coverage/
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# === Bash & editor temp files ===
+
+# Editor or shell-generated backups
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# === IDE & editor folders ===
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# === OS system files ===
+.DS_Store
+Thumbs.db
+
+# === Local output/data folder ===
+example_data/
+
